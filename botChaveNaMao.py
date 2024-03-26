@@ -1,4 +1,5 @@
 import requests
+from bs4 import BeautifulSoup
 import json
 from random import randint
 import time
@@ -9,7 +10,7 @@ requests.packages.urllib3.disable_warnings()
 userAgent = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0"}
 
 def coletarCarros(pagina):    
-    url = "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage="+str(pagina)+"&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"  
+    url = "https://www.chavesnamao.com.br/carros-usados/brasil/?&filtro={%22amax%22:1980}&pg="+pagina+""  
 
     sessao = requests.Session()
     b = sessao.get(url, headers=userAgent)
