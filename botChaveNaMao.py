@@ -10,40 +10,48 @@ requests.packages.urllib3.disable_warnings()
 userAgent = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0"}
 
 def coletarCarros(pagina):    
-    url = "https://www.chavesnamao.com.br/carros-usados/brasil/?&filtro={%22amax%22:1980}&pg="+pagina+""  
+    url = "https://www.chavesnamao.com.br/carros-usados/brasil/?&filtro={%22amax%22:1980}&pg="+str(pagina)+""  
 
     sessao = requests.Session()
     b = sessao.get(url, headers=userAgent)
     
-    resultadoJson = b.json()
+    soup = BeautifulSoup(b.content, 'html.parser')
+  
+    div = soup.find_all('div', class_="veiculos__Card-sc-3pfc6p-0 igtaVV")
+
+    jsonCarros = list()
     
-    carros = resultadoJson["SearchResults"]
+    for scripts in div:
+        jsonCarros.append(scripts.find('script'))
     
-    return carros
+    carrosJson = list()
+        
+    for carrosTexto in jsonCarros:
+        temp = json.loads(carrosTexto.text)
+        carrosJson.append(temp)
+
+    return carrosJson
 
 def coletarInformacoesDosCarros(carro):
-    especificacaoFormatada = tratamentoEspecificacao(carro["Specification"])
-    localizacaoFormatada = tratamentoLocalizacao(carro["Seller"]["Localization"][0])
+    especificacaoFormatada = tratamentoEspecificacao(carro["object"])
     
     objetoCarro = {
-        "Portal": "WebMotors",
+        "Portal": "ChaveNaMão",
         "Caracteristicas": especificacaoFormatada,
-        "Localizacao": localizacaoFormatada,
-        "Preco": carro["Prices"]["Price"]
+        "Preco": carro["object"]["offers"]["price"],
+        "URL": carro["object"]["offers"]["url"],
     }
     
     return objetoCarro
     
 def tratamentoEspecificacao(especificacao):
     dadosEspecificacao = {
-        "Fabricante":especificacao["Make"]["Value"],
-        "Modelo":especificacao["Model"]["Value"],
-        "Versao":especificacao["Version"]["Value"],
-        "Ano":especificacao["YearModel"],
-        "Quilometragem":especificacao["Odometer"],
-        "Cambio":especificacao["Transmission"],
-        "Portas":especificacao["NumberPorts"],
-        "Cor":especificacao["Color"]["Primary"]
+        "Fabricante":especificacao["brand"]["name"],
+        "Modelo":especificacao["model"],
+        "Ano":especificacao["vehicleModelDate"],
+        "Quilometragem":especificacao["mileageFromOdometer"]["value"],
+        "Transmissão":especificacao["vehicleTransmission"],
+        "Cor":especificacao["color"]
     }
 
     return dadosEspecificacao
@@ -71,17 +79,17 @@ def main():
                 objetoCarro = coletarInformacoesDosCarros(carro)
                 resultadoRaspagem.append(objetoCarro)    
             
-            print("Pagina lida WebMotors: {}".format(pagina))
+            print("Pagina lida ChaveNaMão: {}".format(pagina))
             
             time.sleep(float(randint(60,120)))
             
         bytesJson = json.dumps(resultadoRaspagem, indent=4, ensure_ascii=False).encode('utf8')
         
-        f = open("resultadoWebMotors.txt", "a")
+        f = open("resultadoChaveNaMao.txt", "a")
         f.write(bytesJson.decode())
         f.close()
 
     except Exception as e:
-      print(f"An error occurred: {str(e)}")
+        print(f"An error occurred: {str(e)}")
 
 main()

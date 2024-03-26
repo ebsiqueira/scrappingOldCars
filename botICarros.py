@@ -1,4 +1,5 @@
 import requests
+from bs4 import BeautifulSoup
 import json
 from random import randint
 import time
@@ -8,46 +9,52 @@ requests.packages.urllib3.disable_warnings()
 
 userAgent = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0"}
 
-urlAtual = ""
-
 def coletarCarros(pagina):    
-    url = "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage="+str(pagina)+"&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"  
-
-    global urlAtual 
-    urlAtual = url
+    url = "https://www.icarros.com.br/ache/listaanuncios.jsp?pag="+str(pagina)+"&ord=35&sop=nta_17|44|51.1_-amf_1980.1_-kmm_1.1_-rai_50.1_-esc_4.1_-sta_1.1_"  
 
     sessao = requests.Session()
     b = sessao.get(url, headers=userAgent)
     
-    resultadoJson = b.json()
+    soup = BeautifulSoup(b.content, 'html.parser')
+ 
+    div = soup.find_all('script')
     
-    carros = resultadoJson["SearchResults"]
+    print(div)
+    return None
+
+    jsonCarros = list()
     
-    return carros
+    for scripts in div:
+        jsonCarros.append(scripts.find('script'))
+    
+    carrosJson = list()
+        
+    for carrosTexto in jsonCarros:
+        temp = json.loads(carrosTexto.text)
+        carrosJson.append(temp)
+
+    return carrosJson
 
 def coletarInformacoesDosCarros(carro):
-    especificacaoFormatada = tratamentoEspecificacao(carro["Specification"])
-    localizacaoFormatada = tratamentoLocalizacao(carro["Seller"]["Localization"][0])
+    especificacaoFormatada = tratamentoEspecificacao(carro["object"])
     
     objetoCarro = {
-        "Portal": "WebMotors",
+        "Portal": "ChaveNaMão",
         "Caracteristicas": especificacaoFormatada,
-        "Localizacao": localizacaoFormatada,
-        "Preco": carro["Prices"]["Price"],
-        "URL": urlAtual
+        "Preco": carro["object"]["offers"]["price"],
+        "URL": carro["object"]["offers"]["url"],
     }
     
     return objetoCarro
     
 def tratamentoEspecificacao(especificacao):
     dadosEspecificacao = {
-        "Fabricante":especificacao["Make"]["Value"],
-        "Modelo":especificacao["Model"]["Value"],
-        "Ano":especificacao["YearModel"],
-        "Quilometragem":especificacao["Odometer"],
-        "Transmissão":especificacao["Transmission"],
-        "Portas":especificacao["NumberPorts"],
-        "Cor":especificacao["Color"]["Primary"]
+        "Fabricante":especificacao["brand"]["name"],
+        "Modelo":especificacao["model"],
+        "Ano":especificacao["vehicleModelDate"],
+        "Quilometragem":especificacao["mileageFromOdometer"]["value"],
+        "Transmissão":especificacao["vehicleTransmission"],
+        "Cor":especificacao["color"]
     }
 
     return dadosEspecificacao
@@ -75,17 +82,17 @@ def main():
                 objetoCarro = coletarInformacoesDosCarros(carro)
                 resultadoRaspagem.append(objetoCarro)    
             
-            print("Pagina lida WebMotors: {}".format(pagina))
+            print("Pagina lida ChaveNaMão: {}".format(pagina))
             
             time.sleep(float(randint(60,120)))
             
         bytesJson = json.dumps(resultadoRaspagem, indent=4, ensure_ascii=False).encode('utf8')
         
-        f = open("resultadoWebMotors.txt", "a")
+        f = open("resultadoChaveNaMao.txt", "a")
         f.write(bytesJson.decode())
         f.close()
 
     except Exception as e:
-      print(f"An error occurred: {str(e)}")
+        print(f"An error occurred: {str(e)}")
 
-main()
+coletarCarros(1)

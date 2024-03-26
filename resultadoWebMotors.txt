@@ -1,8 +1,15 @@
 [
     {
         "Portal": "WebMotors",
-        "ID": 49916390,
-        "Preco": 69900.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1968.0,
+            "Quilometragem": 51100.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Bege"
+        },
         "Localizacao": {
             "Logradouro": "Av.Arthur Thomas, 1926",
             "CEP": "86065000",
@@ -11,21 +18,20 @@
             "Estado": "Paraná (PR)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "FUSCA",
-            "Versao": "1.3 8V GASOLINA 2P MANUAL",
-            "Ano": 1968.0,
-            "Quilometragem": 51100.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Bege"
-        }
+        "Preco": 69900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 51069936,
-        "Preco": 22000.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1972.0,
+            "Quilometragem": 36771.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Laranja"
+        },
         "Localizacao": {
             "Logradouro": "Av.Luís 258, 258",
             "CEP": "01046915",
@@ -34,21 +40,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "FUSCA",
-            "Versao": "1.5 8V GASOLINA 2P MANUAL",
-            "Ano": 1972.0,
-            "Quilometragem": 36771.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Laranja"
-        }
+        "Preco": 22000.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 48632188,
-        "Preco": 398900.0,
+        "Caracteristicas": {
+            "Fabricante": "FORD",
+            "Modelo": "F-100",
+            "Ano": 1961.0,
+            "Quilometragem": 2600.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Azul"
+        },
         "Localizacao": {
             "Logradouro": "Av.Otaviano Pereira Mendes, 135",
             "CEP": "13301000",
@@ -57,21 +62,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "FORD",
-            "Modelo": "F-100",
-            "Versao": "4.5 CS V8 GASOLINA 2P MANUAL",
-            "Ano": 1961.0,
-            "Quilometragem": 2600.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Azul"
-        }
+        "Preco": 398900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 46820316,
-        "Preco": 230000.0,
+        "Caracteristicas": {
+            "Fabricante": "ALFA ROMEO",
+            "Modelo": "1750",
+            "Ano": 1971.0,
+            "Quilometragem": 40500.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Branco"
+        },
         "Localizacao": {
             "Logradouro": "R. JACI SCHLICHTING DE LINS",
             "CEP": "88103482",
@@ -80,21 +84,20 @@
             "Estado": "Santa Catarina (SC)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "ALFA ROMEO",
-            "Modelo": "1750",
-            "Versao": "1.8 SPIDER VELOCE 8V GASOLINA 2P MANUAL",
-            "Ano": 1971.0,
-            "Quilometragem": 40500.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Branco"
-        }
+        "Preco": 230000.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 50910349,
-        "Preco": 850000.0,
+        "Caracteristicas": {
+            "Fabricante": "ROLLS-ROYCE",
+            "Modelo": "CORNICHE",
+            "Ano": 1973.0,
+            "Quilometragem": 64000.0,
+            "Transmissão": "Automática",
+            "Portas": "2",
+            "Cor": "Marrom"
+        },
         "Localizacao": {
             "Logradouro": "Av. T63 c S2 n 451",
             "CEP": "74823345",
@@ -103,21 +106,20 @@
             "Estado": "Goiás (GO)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "ROLLS-ROYCE",
-            "Modelo": "CORNICHE",
-            "Versao": "6.7 V8 16V GASOLINA AUTOMÁTICO",
-            "Ano": 1973.0,
-            "Quilometragem": 64000.0,
-            "Cambio": "Automática",
-            "Portas": "2",
-            "Cor": "Marrom"
-        }
+        "Preco": 850000.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 51187958,
-        "Preco": 60900.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1968.0,
+            "Quilometragem": 48000.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Bege"
+        },
         "Localizacao": {
             "Logradouro": "Rod.Washington Luiz, 220",
             "CEP": "25055009",
@@ -126,21 +128,20 @@
             "Estado": "Rio de Janeiro (RJ)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "FUSCA",
-            "Versao": "1.3 8V GASOLINA 2P MANUAL",
-            "Ano": 1968.0,
-            "Quilometragem": 48000.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Bege"
-        }
+        "Preco": 60900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 48935303,
-        "Preco": 114990.0,
+        "Caracteristicas": {
+            "Fabricante": "TOYOTA",
+            "Modelo": "BANDEIRANTE",
+            "Ano": 1975.0,
+            "Quilometragem": 51762.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Azul"
+        },
         "Localizacao": {
             "Logradouro": "R.Anhanguera 3227",
             "CEP": "16018390",
@@ -149,21 +150,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "TOYOTA",
-            "Modelo": "BANDEIRANTE",
-            "Versao": "4.0 OJ55LP-BL 4X4 CS DIESEL 2P MANUAL",
-            "Ano": 1975.0,
-            "Quilometragem": 51762.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Azul"
-        }
+        "Preco": 114990.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 50754696,
-        "Preco": 78790.0,
+        "Caracteristicas": {
+            "Fabricante": "FORD",
+            "Modelo": "JEEP",
+            "Ano": 1972.0,
+            "Quilometragem": 93896.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Vermelho"
+        },
         "Localizacao": {
             "Logradouro": "Av.Industrial, 1680",
             "CEP": "09080500",
@@ -172,21 +172,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "FORD",
-            "Modelo": "JEEP",
-            "Versao": "CJ-5",
-            "Ano": 1972.0,
-            "Quilometragem": 93896.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Vermelho"
-        }
+        "Preco": 78790.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 47367344,
-        "Preco": 480000.0,
+        "Caracteristicas": {
+            "Fabricante": "DODGE",
+            "Modelo": "CHARGER",
+            "Ano": 1975.0,
+            "Quilometragem": 36086.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Amarelo"
+        },
         "Localizacao": {
             "Logradouro": "Av.João Naves de Ávila, 3164",
             "CEP": "38408680",
@@ -195,21 +194,20 @@
             "Estado": "Minas Gerais (MG)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "DODGE",
-            "Modelo": "CHARGER",
-            "Versao": "5.2 R/T V8 GASOLINA 2P MANUAL",
-            "Ano": 1975.0,
-            "Quilometragem": 36086.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Amarelo"
-        }
+        "Preco": 480000.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 50491013,
-        "Preco": 280000.0,
+        "Caracteristicas": {
+            "Fabricante": "FORD",
+            "Modelo": "TUDOR",
+            "Ano": 1935.0,
+            "Quilometragem": 5307.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Preto"
+        },
         "Localizacao": {
             "Logradouro": "Av. da Saudade, 500",
             "CEP": "13474140",
@@ -218,21 +216,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "FORD",
-            "Modelo": "TUDOR",
-            "Versao": "3.6 V8 GASOLINA 2P  MANUAL",
-            "Ano": 1935.0,
-            "Quilometragem": 5307.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Preto"
-        }
+        "Preco": 280000.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 50515551,
-        "Preco": 29777.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1971.0,
+            "Quilometragem": 50142.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Cinza"
+        },
         "Localizacao": {
             "Logradouro": "Av.Mirandópolis, 256",
             "CEP": "13050470",
@@ -241,21 +238,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "FUSCA",
-            "Versao": "1.5 8V GASOLINA 2P MANUAL",
-            "Ano": 1971.0,
-            "Quilometragem": 50142.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Cinza"
-        }
+        "Preco": 29777.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 49422547,
-        "Preco": 24900.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "BRASILIA",
+            "Ano": 1975.0,
+            "Quilometragem": 83000.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Amarelo"
+        },
         "Localizacao": {
             "Logradouro": "r padre bento pacheco, 1266",
             "CEP": "13330020",
@@ -264,21 +260,42 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "BRASILIA",
-            "Versao": "1.6 8V GASOLINA 2P MANUAL",
-            "Ano": 1975.0,
-            "Quilometragem": 83000.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Amarelo"
-        }
+        "Preco": 24900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 48044901,
-        "Preco": 90000.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1975.0,
+            "Quilometragem": 89491.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Branco"
+        },
+        "Localizacao": {
+            "Logradouro": "R.Prudente de Moraes, 710",
+            "CEP": "08674015",
+            "Bairro": "Centro",
+            "Cidade": "Suzano",
+            "Estado": "São Paulo (SP)",
+            "Pais": "Brasil"
+        },
+        "Preco": 25900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
+    },
+    {
+        "Portal": "WebMotors",
+        "Caracteristicas": {
+            "Fabricante": "CHEVROLET",
+            "Modelo": "C10",
+            "Ano": 1977.0,
+            "Quilometragem": 15307.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Azul"
+        },
         "Localizacao": {
             "Logradouro": "Av. Pereira Barreto",
             "CEP": "09751000",
@@ -287,21 +304,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "CHEVROLET",
-            "Modelo": "C10",
-            "Versao": "2.5 CS 8V GASOLINA 2P MANUAL",
-            "Ano": 1977.0,
-            "Quilometragem": 15307.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Azul"
-        }
+        "Preco": 90000.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 49948070,
-        "Preco": 29990.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1977.0,
+            "Quilometragem": 100.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Bege"
+        },
         "Localizacao": {
             "Logradouro": "Av. Goiás, 981",
             "CEP": "09521310",
@@ -310,21 +326,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "FUSCA",
-            "Versao": "1.3 8V GASOLINA 2P MANUAL",
-            "Ano": 1977.0,
-            "Quilometragem": 100.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Bege"
-        }
+        "Preco": 29990.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 50429088,
-        "Preco": 119000.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1976.0,
+            "Quilometragem": 2042.0,
+            "Transmissão": "Automática",
+            "Portas": "2",
+            "Cor": "Preto"
+        },
         "Localizacao": {
             "Logradouro": "R.Apucarana, 1109",
             "CEP": "03311001",
@@ -333,21 +348,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "FUSCA",
-            "Versao": "1.3 8V GASOLINA 2P MANUAL",
-            "Ano": 1976.0,
-            "Quilometragem": 2042.0,
-            "Cambio": "Automática",
-            "Portas": "2",
-            "Cor": "Preto"
-        }
+        "Preco": 119000.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 47983798,
-        "Preco": 158888.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "KOMBI",
+            "Ano": 1972.0,
+            "Quilometragem": 84878.0,
+            "Transmissão": "Manual",
+            "Portas": "3",
+            "Cor": "Vermelho"
+        },
         "Localizacao": {
             "Logradouro": "rua otavio tarquinio de souza, 1034",
             "CEP": "04613003",
@@ -356,21 +370,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "KOMBI",
-            "Versao": "1.5 LUXO 8V GASOLINA 3P MANUAL",
-            "Ano": 1972.0,
-            "Quilometragem": 84878.0,
-            "Cambio": "Manual",
-            "Portas": "3",
-            "Cor": "Vermelho"
-        }
+        "Preco": 158888.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 50973462,
-        "Preco": 95900.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "KOMBI",
+            "Ano": 1971.0,
+            "Quilometragem": 73500.0,
+            "Transmissão": "Manual",
+            "Portas": "3",
+            "Cor": "Azul"
+        },
         "Localizacao": {
             "Logradouro": "R.Graciema Formolo, 571",
             "CEP": "95054150",
@@ -379,21 +392,20 @@
             "Estado": "Rio Grande do Sul (RS)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "KOMBI",
-            "Versao": "1.5 LUXO 8V GASOLINA 3P MANUAL",
-            "Ano": 1971.0,
-            "Quilometragem": 73500.0,
-            "Cambio": "Manual",
-            "Portas": "3",
-            "Cor": "Azul"
-        }
+        "Preco": 95900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 51068650,
-        "Preco": 47900.0,
+        "Caracteristicas": {
+            "Fabricante": "FORD",
+            "Modelo": "F-75",
+            "Ano": 1979.0,
+            "Quilometragem": 143000.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Cinza"
+        },
         "Localizacao": {
             "Logradouro": "Rod.Dutra, 7231",
             "CEP": "12031770",
@@ -402,21 +414,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "FORD",
-            "Modelo": "F-75",
-            "Versao": "2.3 4X4 PICK-UP MANUAL",
-            "Ano": 1979.0,
-            "Quilometragem": 143000.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Cinza"
-        }
+        "Preco": 47900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 49460207,
-        "Preco": 25900.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1977.0,
+            "Quilometragem": 99000.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Laranja"
+        },
         "Localizacao": {
             "Logradouro": "R RUA ALAGOAS, 1663",
             "CEP": "84940000",
@@ -425,21 +436,20 @@
             "Estado": "Paraná (PR)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "FUSCA",
-            "Versao": "1.3 L 8V GASOLINA 2P MANUAL",
-            "Ano": 1977.0,
-            "Quilometragem": 99000.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Laranja"
-        }
+        "Preco": 25900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 50252786,
-        "Preco": 49999.0,
+        "Caracteristicas": {
+            "Fabricante": "CHEVROLET",
+            "Modelo": "C10",
+            "Ano": 1976.0,
+            "Quilometragem": 540000.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Preto"
+        },
         "Localizacao": {
             "Logradouro": "AV CEL QUITO JUNQUEIRA , 188  196",
             "CEP": "14085610",
@@ -448,21 +458,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "CHEVROLET",
-            "Modelo": "C10",
-            "Versao": "4.1 CS 8V GASOLINA 2P MANUAL",
-            "Ano": 1976.0,
-            "Quilometragem": 540000.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Preto"
-        }
+        "Preco": 49999.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 49353102,
-        "Preco": 35900.0,
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1973.0,
+            "Quilometragem": 23000.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Indefinida"
+        },
         "Localizacao": {
             "Logradouro": "Av.Ayrton Senna da Silva, 611",
             "CEP": "11726000",
@@ -471,21 +480,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "FUSCA",
-            "Versao": "1.5 8V GASOLINA 2P MANUAL",
-            "Ano": 1973.0,
-            "Quilometragem": 23000.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Indefinida"
-        }
+        "Preco": 35900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 50923127,
-        "Preco": 139900.0,
+        "Caracteristicas": {
+            "Fabricante": "CHEVROLET",
+            "Modelo": "OPALA",
+            "Ano": 1979.0,
+            "Quilometragem": 2000.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Bege"
+        },
         "Localizacao": {
             "Logradouro": "Av. Prof. Luiz Ignácio Anhaia Mello, 8655",
             "CEP": "03295100",
@@ -494,21 +502,20 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "CHEVROLET",
-            "Modelo": "OPALA",
-            "Versao": "4.1 COMODORO 12V GASOLINA 2P MANUAL",
-            "Ano": 1979.0,
-            "Quilometragem": 2000.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Bege"
-        }
+        "Preco": 139900.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     },
     {
         "Portal": "WebMotors",
-        "ID": 49724482,
-        "Preco": 399890.0,
+        "Caracteristicas": {
+            "Fabricante": "CHEVROLET",
+            "Modelo": "MASTER",
+            "Ano": 1936.0,
+            "Quilometragem": 4400.0,
+            "Transmissão": "Manual",
+            "Portas": "4",
+            "Cor": "Preto"
+        },
         "Localizacao": {
             "Logradouro": "Av.de Indaiatuba, 921",
             "CEP": "13338010",
@@ -517,38 +524,7 @@
             "Estado": "São Paulo (SP)",
             "Pais": "Brasil"
         },
-        "Caracteristicas": {
-            "Fabricante": "CHEVROLET",
-            "Modelo": "MASTER",
-            "Versao": "GASOLINA 4P MANUAL",
-            "Ano": 1936.0,
-            "Quilometragem": 4400.0,
-            "Cambio": "Manual",
-            "Portas": "4",
-            "Cor": "Preto"
-        }
-    },
-    {
-        "Portal": "WebMotors",
-        "ID": 50530164,
-        "Preco": 25900.0,
-        "Localizacao": {
-            "Logradouro": "R.José Aiello, 575",
-            "CEP": "17014273",
-            "Bairro": "Centro",
-            "Cidade": "Bauru",
-            "Estado": "São Paulo (SP)",
-            "Pais": "Brasil"
-        },
-        "Caracteristicas": {
-            "Fabricante": "VOLKSWAGEN",
-            "Modelo": "FUSCA",
-            "Versao": "1.6 8V GASOLINA 2P MANUAL",
-            "Ano": 1972.0,
-            "Quilometragem": 101010.0,
-            "Cambio": "Manual",
-            "Portas": "2",
-            "Cor": "Verde"
-        }
+        "Preco": 399890.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     }
 ]
