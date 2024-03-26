@@ -12,20 +12,37 @@ user_agent = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:12
 
 def get_cars():    
     try:
-        page = 1
         result = []
-        for i in range(0,20):
-            url = "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage="+page+"&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
+        for page in range(1,2):
+            url = "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage="+str(page)+"&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
         
             # Build session
             session = requests.Session()
             b = session.get(url, headers=user_agent)
             
             json_result = b.json()
+        
+            for carros in json_result["SearchResults"]:
+                objeto = {
+                    "Portal":"WebMotors",
+                    "ID":carros["UniqueId"],
+                    "Preco":carros["Prices"]["Price"],
+                    #"Descrição":carros["LongComment"],
+                    "Caracteristicas":carros["Specification"]
+                }
+                
+                result.append(objeto)
             
-            result.append(json_result["SearchResults"])
+            print("Pagina lida: {}".format(page))
             
             time.sleep(float(randint(60,120)))
+            
+            
+        json_str = json.dumps(result, indent=4)
+        
+        f = open("resultado.txt", "a")
+        f.write(json_str)
+        f.close()
 
     except Exception as e:
       print(f"An error occurred: {str(e)}")
