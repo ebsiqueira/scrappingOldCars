@@ -10,17 +10,14 @@ requests.packages.urllib3.disable_warnings()
 userAgent = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0"}
 
 def coletarCarros(pagina):    
-    url = "https://www.icarros.com.br/ache/listaanuncios.jsp?pag="+str(pagina)+"&ord=35&sop=nta_17|44|51.1_-amf_1980.1_-kmm_1.1_-rai_50.1_-esc_4.1_-sta_1.1_"  
+    url = "https://www.chavesnamao.com.br/carros-usados/brasil/?&filtro={%22amax%22:1980}&pg="+str(pagina)+""  
 
     sessao = requests.Session()
     b = sessao.get(url, headers=userAgent)
     
     soup = BeautifulSoup(b.content, 'html.parser')
- 
-    div = soup.find_all('script')
-    
-    print(div)
-    return None
+  
+    div = soup.find_all('div', class_="veiculos__Card-sc-3pfc6p-0 igtaVV")
 
     jsonCarros = list()
     
@@ -42,7 +39,7 @@ def coletarInformacoesDosCarros(carro):
         "Portal": "ChaveNaMão",
         "Caracteristicas": especificacaoFormatada,
         "Preco": carro["object"]["offers"]["price"],
-        "URL": carro["object"]["offers"]["url"],
+        "URL": carro["object"]["offers"]["url"]
     }
     
     return objetoCarro
@@ -59,18 +56,6 @@ def tratamentoEspecificacao(especificacao):
 
     return dadosEspecificacao
 
-def tratamentoLocalizacao(localizacao):
-    dadosLocalizacao = {
-        "Logradouro":localizacao["AbbrState"],
-        "CEP":localizacao["ZipCode"],
-        "Bairro":localizacao["Neighborhood"],
-        "Cidade":localizacao["City"],
-        "Estado":localizacao["State"],
-        "Pais":localizacao["Country"],
-    }
-    
-    return dadosLocalizacao
-
 def main():
     try:
         resultadoRaspagem = []
@@ -84,15 +69,15 @@ def main():
             
             print("Pagina lida ChaveNaMão: {}".format(pagina))
             
-            time.sleep(float(randint(60,120)))
+            #time.sleep(float(randint(60,120)))
             
         bytesJson = json.dumps(resultadoRaspagem, indent=4, ensure_ascii=False).encode('utf8')
         
-        f = open("resultadoChaveNaMao.txt", "a")
+        f = open("resultadoChaveNaMao.txt", "w")
         f.write(bytesJson.decode())
         f.close()
 
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 
-coletarCarros(1)
+main()

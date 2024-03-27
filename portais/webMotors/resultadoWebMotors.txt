@@ -156,28 +156,6 @@
     {
         "Portal": "WebMotors",
         "Caracteristicas": {
-            "Fabricante": "FORD",
-            "Modelo": "JEEP",
-            "Ano": 1972.0,
-            "Quilometragem": 93896.0,
-            "Transmissão": "Manual",
-            "Portas": "2",
-            "Cor": "Vermelho"
-        },
-        "Localizacao": {
-            "Logradouro": "Av.Industrial, 1680",
-            "CEP": "09080500",
-            "Bairro": "Jardim",
-            "Cidade": "Santo André",
-            "Estado": "São Paulo (SP)",
-            "Pais": "Brasil"
-        },
-        "Preco": 78790.0,
-        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
-    },
-    {
-        "Portal": "WebMotors",
-        "Caracteristicas": {
             "Fabricante": "DODGE",
             "Modelo": "CHARGER",
             "Ano": 1975.0,
@@ -525,6 +503,28 @@
             "Pais": "Brasil"
         },
         "Preco": 399890.0,
+        "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
+    },
+    {
+        "Portal": "WebMotors",
+        "Caracteristicas": {
+            "Fabricante": "VOLKSWAGEN",
+            "Modelo": "FUSCA",
+            "Ano": 1972.0,
+            "Quilometragem": 101010.0,
+            "Transmissão": "Manual",
+            "Portas": "2",
+            "Cor": "Verde"
+        },
+        "Localizacao": {
+            "Logradouro": "R.José Aiello, 575",
+            "CEP": "17014273",
+            "Bairro": "Centro",
+            "Cidade": "Bauru",
+            "Estado": "São Paulo (SP)",
+            "Pais": "Brasil"
+        },
+        "Preco": 25900.0,
         "URL": "https://www.webmotors.com.br/api/search/car?url=https://www.webmotors.com.br/carros-usados%2Festoque%2Fate.1980%3Ftipoveiculo%3Dcarros-usados%26anoate%3D1980&actualPage=1&displayPerPage=24&order=1&showMenu=true&showCount=true&showBreadCrumb=true&testAB=false&returnUrl=false"
     }
 ]

@@ -1,0 +1,410 @@
+[
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1979",
+            "Quilometragem": "100000",
+            "Transmissão": "manual",
+            "Cor": "Bege"
+        },
+        "Localizacao": {
+            "Cidade": "Varginha",
+            "Estado": "MG"
+        },
+        "Preco": "R$ 25.000,00",
+        "URL": "https://www.icarros.com.br//comprar/varginha-mg/volkswagen/fusca/1979/d46172224?pos=1&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1973",
+            "Quilometragem": "1000",
+            "Transmissão": "manual",
+            "Cor": "Amarelo"
+        },
+        "Localizacao": {
+            "Cidade": "Araraquara",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 35.000,00",
+        "URL": "https://www.icarros.com.br//comprar/araraquara-sp/volkswagen/fusca/1973/d45908713?pos=2&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Brasilia 1600",
+            "Ano": "1978",
+            "Quilometragem": "95668",
+            "Transmissão": "manual",
+            "Cor": "Laranja"
+        },
+        "Localizacao": {
+            "Cidade": "Brasília",
+            "Estado": "DF"
+        },
+        "Preco": "R$ 35.990,00",
+        "URL": "https://www.icarros.com.br//comprar/brasilia-df/volkswagen/brasilia/1978/d41499289?pos=3&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1968",
+            "Quilometragem": "1",
+            "Transmissão": "manual",
+            "Cor": "Vermelho"
+        },
+        "Localizacao": {
+            "Cidade": "Belo Horizonte",
+            "Estado": "MG"
+        },
+        "Preco": "R$ 37.900,00",
+        "URL": "https://www.icarros.com.br//comprar/belo-horizonte-mg/volkswagen/fusca/1968/d45729429?pos=4&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1968",
+            "Quilometragem": "69000",
+            "Transmissão": "manual",
+            "Cor": "Branco"
+        },
+        "Localizacao": {
+            "Cidade": "São José do Rio Preto",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 39.900,00",
+        "URL": "https://www.icarros.com.br//comprar/sao-jose-do-rio-preto-sp/volkswagen/fusca/1968/d45941199?pos=5&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1975",
+            "Quilometragem": "33016",
+            "Transmissão": "manual",
+            "Cor": "Bege"
+        },
+        "Localizacao": {
+            "Cidade": "Magé",
+            "Estado": "RJ"
+        },
+        "Preco": "R$ 18.000,00",
+        "URL": "https://www.icarros.com.br//comprar/mage-rj/volkswagen/fusca/1975/d45107035?pos=6&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1976",
+            "Quilometragem": "467",
+            "Transmissão": "manual",
+            "Cor": "Marrom"
+        },
+        "Localizacao": {
+            "Cidade": "Goiânia",
+            "Estado": "GO"
+        },
+        "Preco": "R$ 29.800,00",
+        "URL": "https://www.icarros.com.br//comprar/goiania-go/volkswagen/fusca/1976/d45716206?pos=7&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1980",
+            "Quilometragem": "29863",
+            "Transmissão": "manual",
+            "Cor": "Verde"
+        },
+        "Localizacao": {
+            "Cidade": "Porto Alegre",
+            "Estado": "RS"
+        },
+        "Preco": "R$ 30.000,00",
+        "URL": "https://www.icarros.com.br//comprar/porto-alegre-rs/volkswagen/fusca/1980/d44932295?pos=8&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1500",
+            "Ano": "1972",
+            "Quilometragem": "613000",
+            "Transmissão": "manual",
+            "Cor": "Amarelo"
+        },
+        "Localizacao": {
+            "Cidade": "Brasília",
+            "Estado": "DF"
+        },
+        "Preco": "R$ 41.900,00",
+        "URL": "https://www.icarros.com.br//comprar/brasilia-df/volkswagen/fusca/1972/d44454905?pos=9&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Fiat",
+            "Modelo": "147 L 1.050",
+            "Ano": "1978",
+            "Quilometragem": "100000",
+            "Transmissão": "manual",
+            "Cor": "Branco"
+        },
+        "Localizacao": {
+            "Cidade": "Sorocaba",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 19.999,00",
+        "URL": "https://www.icarros.com.br//comprar/sorocaba-sp/fiat/147/1978/d45126285?pos=10&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1600",
+            "Ano": "1976",
+            "Quilometragem": "99999",
+            "Transmissão": "manual",
+            "Cor": "Branco"
+        },
+        "Localizacao": {
+            "Cidade": "Taboão da Serra",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 24.900,00",
+        "URL": "https://www.icarros.com.br//comprar/taboao-da-serra-sp/volkswagen/fusca/1976/d46112714?pos=11&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1973",
+            "Quilometragem": "112000",
+            "Transmissão": "manual",
+            "Cor": "Amarelo"
+        },
+        "Localizacao": {
+            "Cidade": "Bebedouro",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 26.000,00",
+        "URL": "https://www.icarros.com.br//comprar/bebedouro-sp/volkswagen/fusca/1973/d46024567?pos=12&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Variant 1.6",
+            "Ano": "1970",
+            "Quilometragem": "49750",
+            "Transmissão": "automático",
+            "Cor": "Verde"
+        },
+        "Localizacao": {
+            "Cidade": "São José do Rio Preto",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 28.900,00",
+        "URL": "https://www.icarros.com.br//comprar/sao-jose-do-rio-preto-sp/volkswagen/variant/1970/d46338436?pos=13&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1978",
+            "Quilometragem": "36900",
+            "Transmissão": "manual",
+            "Cor": "Bege"
+        },
+        "Localizacao": {
+            "Cidade": "Curitiba",
+            "Estado": "PR"
+        },
+        "Preco": "R$ 29.900,00",
+        "URL": "https://www.icarros.com.br//comprar/curitiba-pr/volkswagen/fusca/1978/d45868907?pos=14&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Ford",
+            "Modelo": "Corcel I Sedan 1.4",
+            "Ano": "1976",
+            "Quilometragem": "42850",
+            "Transmissão": "manual",
+            "Cor": "Branco"
+        },
+        "Localizacao": {
+            "Cidade": "Rio de Janeiro",
+            "Estado": "RJ"
+        },
+        "Preco": "R$ 29.900,00",
+        "URL": "https://www.icarros.com.br//comprar/rio-de-janeiro-rj/ford/corcel/1976/d45749829?pos=15&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1975",
+            "Quilometragem": "30000",
+            "Transmissão": "manual",
+            "Cor": "Azul"
+        },
+        "Localizacao": {
+            "Cidade": "Campinas",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 35.980,00",
+        "URL": "https://www.icarros.com.br//comprar/campinas-sp/volkswagen/fusca/1975/d46092562?pos=16&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1500",
+            "Ano": "1973",
+            "Quilometragem": "34",
+            "Transmissão": "manual",
+            "Cor": "Verde"
+        },
+        "Localizacao": {
+            "Cidade": "Belo Horizonte",
+            "Estado": "MG"
+        },
+        "Preco": "R$ 37.900,00",
+        "URL": "https://www.icarros.com.br//comprar/belo-horizonte-mg/volkswagen/fusca/1973/d46237080?pos=17&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1500",
+            "Ano": "1973",
+            "Quilometragem": "113100",
+            "Transmissão": "manual",
+            "Cor": "Vermelho"
+        },
+        "Localizacao": {
+            "Cidade": "São Paulo",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 38.800,00",
+        "URL": "https://www.icarros.com.br//comprar/sao-paulo-sp/volkswagen/fusca/1973/d46241813?pos=18&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Chevrolet",
+            "Modelo": "Chevette Sedan SL 1.4",
+            "Ano": "1977",
+            "Quilometragem": "77000",
+            "Transmissão": "manual",
+            "Cor": "Marrom"
+        },
+        "Localizacao": {
+            "Cidade": "Campinas",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 44.990,00",
+        "URL": "https://www.icarros.com.br//comprar/campinas-sp/chevrolet/chevette-sedan/1977/d46177512?pos=19&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Chevrolet",
+            "Modelo": "C10 Pick Up (Cab Simples)",
+            "Ano": "1976",
+            "Quilometragem": "54000",
+            "Transmissão": "manual",
+            "Cor": "Preto"
+        },
+        "Localizacao": {
+            "Cidade": "Ribeirão Preto",
+            "Estado": "SP"
+        },
+        "Preco": "R$ 49.999,00",
+        "URL": "https://www.icarros.com.br//comprar/ribeirao-preto-sp/chevrolet/c10/1976/d45495583?pos=20&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1500",
+            "Ano": "1973",
+            "Quilometragem": "24400",
+            "Transmissão": "manual",
+            "Cor": "Branco"
+        },
+        "Localizacao": {
+            "Cidade": "Jaguarão",
+            "Estado": "RS"
+        },
+        "Preco": "",
+        "URL": "https://www.icarros.com.br//comprar/jaguarao-rs/volkswagen/fusca/1973/d45578685?pos=-1&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1979",
+            "Quilometragem": "26534",
+            "Transmissão": "manual",
+            "Cor": "Amarelo"
+        },
+        "Localizacao": {
+            "Cidade": "Sorocaba",
+            "Estado": "SP"
+        },
+        "Preco": "",
+        "URL": "https://www.icarros.com.br//comprar/sorocaba-sp/volkswagen/fusca/1979/d46198967?pos=-1&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1974",
+            "Quilometragem": "200",
+            "Transmissão": "manual",
+            "Cor": "Bege"
+        },
+        "Localizacao": {
+            "Cidade": "Duque de Caxias",
+            "Estado": "RJ"
+        },
+        "Preco": "",
+        "URL": "https://www.icarros.com.br//comprar/duque-de-caxias-rj/volkswagen/fusca/1974/d45839303?pos=-2&hfv=false"
+    },
+    {
+        "Portal": "iCarros",
+        "Caracteristicas": {
+            "Fabricante": "Volkswagen",
+            "Modelo": "Fusca 1300",
+            "Ano": "1974",
+            "Quilometragem": "27000",
+            "Transmissão": "manual",
+            "Cor": "Marrom"
+        },
+        "Localizacao": {
+            "Cidade": "Niterói",
+            "Estado": "RJ"
+        },
+        "Preco": "",
+        "URL": "https://www.icarros.com.br//comprar/niteroi-rj/volkswagen/fusca/1974/d46321411?pos=-3&hfv=false"
+    }
+]
