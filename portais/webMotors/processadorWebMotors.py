@@ -1,7 +1,10 @@
+# Processa as informações dos carros
 def processaInfoCarrosWebMotors(carro, urlAtual):
+    # Tratamento especial para caracteristicas e localização
     especificacaoFormatada = tratamentoEspecificacao(carro["Specification"])
     localizacaoFormatada = tratamentoLocalizacao(carro["Seller"]["Localization"][0])
     
+    # Modelo Json para um carro
     objetoCarro = {
         "Portal": "WebMotors",
         "Caracteristicas": especificacaoFormatada,
@@ -12,6 +15,7 @@ def processaInfoCarrosWebMotors(carro, urlAtual):
     
     return objetoCarro
 
+# Trata as caracteristicas do carro
 def tratamentoEspecificacao(especificacao):
     dadosEspecificacao = {
         "Fabricante":especificacao["Make"]["Value"],
@@ -25,6 +29,7 @@ def tratamentoEspecificacao(especificacao):
 
     return dadosEspecificacao
 
+# Trata os dados de localização
 def tratamentoLocalizacao(localizacao):
     dadosLocalizacao = {
         "Logradouro":localizacao["AbbrState"],
