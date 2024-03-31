@@ -26,30 +26,30 @@
                 
                 
              
-           {item_id: `46172224`,
+           {item_id: `46332638`,
                titulo: `Volkswagen Fusca 1300`,
                hasImage: `true`,
-               item_variant: `1979`,
+               item_variant: `1977`,
                isZeroKm: `false`,
                cambio: `manual`,
-               cor: `Bege`,
+               cor: `Vermelho`,
                description: `N/D`,
-               link: `/comprar/varginha-mg/volkswagen/fusca/1979/d46172224?pos=1&hfv=false`,
+               link: `/comprar/salgueiro-pe/volkswagen/fusca/1977/d46332638?pos=81&hfv=false`,
                item_brand: `Volkswagen`,
-               nomeVendedor: `LL Cars`,
+               nomeVendedor: `Girador Veiculos`,
                superOffer: `false`,
                favorito: `false`,
                item_category5: `PJ`,
-               item_category4: `Varginha`,
-               item_category3: `MG`,
-               item_category: `100000`,
+               item_category4: `Salgueiro`,
+               item_category3: `PE`,
+               item_category: `199999`,
                indice: `1`,
                item_name: `Fusca 1300`,
                hasWhatsApp: `true`,
                whatsappType: `1`,
                icFeiraoIcarros: `false`,
-               price: `R$ 25.000,00`,
-               dealer_id: `2322597`
+               price: `R$ 30.000,00`,
+               dealer_id: `2440537`
            },
         
             
@@ -78,30 +78,30 @@
                 
                 
              
-           {item_id: `45908713`,
-               titulo: `Volkswagen Fusca 1300`,
+           {item_id: `46298170`,
+               titulo: `Ford Corcel I Sedan 1.4`,
                hasImage: `true`,
-               item_variant: `1973`,
+               item_variant: `1977`,
                isZeroKm: `false`,
                cambio: `manual`,
                cor: `Amarelo`,
-               description: `N/D`,
-               link: `/comprar/araraquara-sp/volkswagen/fusca/1973/d45908713?pos=2&hfv=false`,
-               item_brand: `Volkswagen`,
-               nomeVendedor: `Henry Car Motors`,
+               description: `FORD CORCEL LUXO 1.4 1977 (GASOLINA) Por apenas R$ 35.000,00 mais taxas especiais para ...`,
+               link: `/comprar/maringa-pr/ford/corcel/1977/d46298170?pos=82&hfv=false`,
+               item_brand: `Ford`,
+               nomeVendedor: `Mandacaru Veiculos`,
                superOffer: `false`,
                favorito: `false`,
                item_category5: `PJ`,
-               item_category4: `Araraquara`,
-               item_category3: `SP`,
-               item_category: `1000`,
+               item_category4: `Maringá`,
+               item_category3: `PR`,
+               item_category: `300`,
                indice: `2`,
-               item_name: `Fusca 1300`,
+               item_name: `Corcel I Sedan 1.4`,
                hasWhatsApp: `true`,
                whatsappType: `1`,
                icFeiraoIcarros: `false`,
                price: `R$ 35.000,00`,
-               dealer_id: `2536234`
+               dealer_id: `820921`
            },
         
             
@@ -130,30 +130,30 @@
                 
                 
              
-           {item_id: `41499289`,
-               titulo: `Volkswagen Brasilia 1600`,
+           {item_id: `46125108`,
+               titulo: `Volkswagen Fusca 1300`,
                hasImage: `true`,
-               item_variant: `1978`,
+               item_variant: `1967`,
                isZeroKm: `false`,
                cambio: `manual`,
-               cor: `Laranja`,
-               description: `VALOR DO ANÚNCIO PARA PAGAMENTO À VISTA Obs.: O valor com o carro na troca é de R$40.990,00. O ...`,
-               link: `/comprar/brasilia-df/volkswagen/brasilia/1978/d41499289?pos=3&hfv=false`,
+               cor: `Branco`,
+               description: `PLACA PRETA/ COLECIONADOR`,
+               link: `/comprar/jundiai-sp/volkswagen/fusca/1967/d46125108?pos=83&hfv=false`,
                item_brand: `Volkswagen`,
-               nomeVendedor: `TITAN VEICULOS`,
+               nomeVendedor: `New Car Veiculos`,
                superOffer: `false`,
                favorito: `false`,
                item_category5: `PJ`,
-               item_category4: `Brasília`,
-               item_category3: `DF`,
-               item_category: `95668`,
+               item_category4: `Jundiaí`,
+               item_category3: `SP`,
+               item_category: `93500`,
                indice: `3`,
-               item_name: `Brasilia 1600`,
+               item_name: `Fusca 1300`,
                hasWhatsApp: `true`,
                whatsappType: `1`,
                icFeiraoIcarros: `false`,
-               price: `R$ 35.990,00`,
-               dealer_id: `2254358`
+               price: `R$ 41.900,00`,
+               dealer_id: `36430`
            },
         
             
@@ -182,30 +182,30 @@
                 
                 
              
-           {item_id: `45729429`,
+           {item_id: `46360462`,
                titulo: `Volkswagen Fusca 1300`,
                hasImage: `true`,
-               item_variant: `1968`,
+               item_variant: `1972`,
                isZeroKm: `false`,
                cambio: `manual`,
-               cor: `Vermelho`,
-               description: `FAVOR CONSIDERAR VALOR PARA PAGAMENTO À VISTA. SUJEITO À ALTERAÇÃO SE HOUVER TROCA E/OU ...`,
-               link: `/comprar/belo-horizonte-mg/volkswagen/fusca/1968/d45729429?pos=4&hfv=false`,
+               cor: `Vinho`,
+               description: `Melhor Avaliação de usado na troca Melhores taxas e facilidades no financiamento Informações ...`,
+               link: `/comprar/campinas-sp/volkswagen/fusca/1972/d46360462?pos=84&hfv=false`,
                item_brand: `Volkswagen`,
-               nomeVendedor: `CARPRO VEÍCULOS`,
+               nomeVendedor: `Topmais Veiculos`,
                superOffer: `false`,
                favorito: `false`,
                item_category5: `PJ`,
-               item_category4: `Belo Horizonte`,
-               item_category3: `MG`,
-               item_category: `1`,
+               item_category4: `Campinas`,
+               item_category3: `SP`,
+               item_category: `11111`,
                indice: `4`,
                item_name: `Fusca 1300`,
                hasWhatsApp: `true`,
                whatsappType: `1`,
                icFeiraoIcarros: `false`,
-               price: `R$ 37.900,00`,
-               dealer_id: `124165`
+               price: `R$ 10.990,00`,
+               dealer_id: `2323100`
            },
         
             
@@ -234,82 +234,30 @@
                 
                 
              
-           {item_id: `45941199`,
-               titulo: `Volkswagen Fusca 1300`,
+           {item_id: `45557117`,
+               titulo: `Volkswagen Fusca 1500`,
                hasImage: `true`,
-               item_variant: `1968`,
+               item_variant: `1972`,
                isZeroKm: `false`,
                cambio: `manual`,
-               cor: `Branco`,
-               description: `Apollo Veículos desde 1990 trazendo o que há de melhor em veículos 0KM e Seminovos. A qualidade ...`,
-               link: `/comprar/sao-jose-do-rio-preto-sp/volkswagen/fusca/1968/d45941199?pos=5&hfv=false`,
+               cor: `Azul`,
+               description: `N/D`,
+               link: `/comprar/araxa-mg/volkswagen/fusca/1972/d45557117?pos=85&hfv=false`,
                item_brand: `Volkswagen`,
-               nomeVendedor: `Apollo Veiculos`,
+               nomeVendedor: `GC VEICULOS `,
                superOffer: `false`,
                favorito: `false`,
                item_category5: `PJ`,
-               item_category4: `São José do Rio Preto`,
-               item_category3: `SP`,
-               item_category: `69000`,
+               item_category4: `Araxá`,
+               item_category3: `MG`,
+               item_category: `27532`,
                indice: `5`,
-               item_name: `Fusca 1300`,
-               hasWhatsApp: `true`,
-               whatsappType: `2`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 39.900,00`,
-               dealer_id: `131854`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `46396870`,
-               titulo: `Volkswagen Brasilia 1600`,
-               hasImage: `true`,
-               item_variant: `1975`,
-               isZeroKm: `false`,
-               cambio: `automático`,
-               cor: `Laranja`,
-               description: `Volkswagem Brasilia 1600 - 1975 - Placa preta com certificado de originalidade. Rodas aro 17 ...`,
-               link: `/comprar/guarulhos-sp/volkswagen/brasilia/1975/d46396870?pos=6&hfv=false`,
-               item_brand: `Volkswagen`,
-               nomeVendedor: `Andrade Multimarcas`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `Guarulhos`,
-               item_category3: `SP`,
-               item_category: `25000`,
-               indice: `6`,
-               item_name: `Brasilia 1600`,
+               item_name: `Fusca 1500`,
                hasWhatsApp: `true`,
                whatsappType: `1`,
                icFeiraoIcarros: `false`,
-               price: `R$ 29.990,00`,
-               dealer_id: `2653136`
+               price: `R$ 14.900,00`,
+               dealer_id: `2637429`
            },
         
             
@@ -338,15 +286,223 @@
                 
                 
              
-           {item_id: `45716206`,
-               titulo: `Volkswagen Fusca 1300`,
+           {item_id: `44205963`,
+               titulo: `Volkswagen Fusca 1500`,
                hasImage: `true`,
-               item_variant: `1976`,
+               item_variant: `1972`,
                isZeroKm: `false`,
                cambio: `manual`,
                cor: `Marrom`,
-               description: `1976 / 1976 motor 1300 Veiculo Sem Garantia Financiamento próprio Entrada R$ 17.880 restante 15 ...`,
-               link: `/comprar/goiania-go/volkswagen/fusca/1976/d45716206?pos=7&hfv=false`,
+               description: `FUSCA 1.5 1972 - Entrada facilitada no cartao de credito em ate 21 vezes - Aceitamos veiculos ...`,
+               link: `/comprar/curitiba-pr/volkswagen/fusca/1972/d44205963?pos=86&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `ASN MOTORS`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `Curitiba`,
+               item_category3: `PR`,
+               item_category: `99999`,
+               indice: `6`,
+               item_name: `Fusca 1500`,
+               hasWhatsApp: `true`,
+               whatsappType: `1`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 19.890,00`,
+               dealer_id: `2663419`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `46097998`,
+               titulo: `Volkswagen Fusca 1300`,
+               hasImage: `true`,
+               item_variant: `1979`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Branco`,
+               description: `Detalhes feitos: suspenção, freio, assoalho, farol novo, escapamento puma, tapeçaria, ...`,
+               link: `/comprar/tres-lagoas-ms/volkswagen/fusca/1979/d46097998?pos=87&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `Absoluta Automóveis`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `Três Lagoas`,
+               item_category3: `MS`,
+               item_category: `34078`,
+               indice: `7`,
+               item_name: `Fusca 1300`,
+               hasWhatsApp: `true`,
+               whatsappType: `1`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 19.990,00`,
+               dealer_id: `1359260`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `45758330`,
+               titulo: `Volkswagen Fusca 1500`,
+               hasImage: `true`,
+               item_variant: `1973`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Amarelo`,
+               description: `Fusca 1500 1973 -21.900,00 Para mais Informacoes (83) 98767-2236 CONSULT CAR. Realizando sonhos ...`,
+               link: `/comprar/joao-pessoa-pb/volkswagen/fusca/1973/d45758330?pos=88&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `CONSULT CAR`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `João Pessoa`,
+               item_category3: `PB`,
+               item_category: `99999`,
+               indice: `8`,
+               item_name: `Fusca 1500`,
+               hasWhatsApp: `true`,
+               whatsappType: `1`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 21.900,00`,
+               dealer_id: `2494689`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `45935186`,
+               titulo: `Volkswagen Fusca 1300`,
+               hasImage: `true`,
+               item_variant: `1973`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Laranja`,
+               description: `RELÍQUIA BEM INTEIRO MESMO`,
+               link: `/comprar/brusque-sc/volkswagen/fusca/1973/d45935186?pos=89&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `Leomar Automóveis`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `Brusque`,
+               item_category3: `SC`,
+               item_category: `88000`,
+               indice: `9`,
+               item_name: `Fusca 1300`,
+               hasWhatsApp: `true`,
+               whatsappType: `1`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 24.990,00`,
+               dealer_id: `2530943`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `45224049`,
+               titulo: `Volkswagen Variant 1.6`,
+               hasImage: `true`,
+               item_variant: `1971`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Azul`,
+               description: `VARIANT 1971/1971 Financiamento próprio com Entrada R$ 16.880 em 15 x com acréscimo no boleto ...`,
+               link: `/comprar/goiania-go/volkswagen/variant/1971/d45224049?pos=90&hfv=false`,
                item_brand: `Volkswagen`,
                nomeVendedor: `AutoWeb Garage`,
                superOffer: `false`,
@@ -354,13 +510,13 @@
                item_category5: `PJ`,
                item_category4: `Goiânia`,
                item_category3: `GO`,
-               item_category: `467`,
-               indice: `7`,
-               item_name: `Fusca 1300`,
+               item_category: `66919`,
+               indice: `10`,
+               item_name: `Variant 1.6`,
                hasWhatsApp: `true`,
                whatsappType: `2`,
                icFeiraoIcarros: `false`,
-               price: `R$ 29.800,00`,
+               price: `R$ 27.800,00`,
                dealer_id: `1620881`
            },
         
@@ -377,459 +533,43 @@
              
             
                 
-                
                     
+                
                 
              
             
                 
                 
                 
+                
                     
                 
                 
-                
              
-           {item_id: `44932295`,
+           {item_id: `46384894`,
                titulo: `Volkswagen Fusca 1300`,
                hasImage: `true`,
-               item_variant: `1980`,
+               item_variant: `1969`,
                isZeroKm: `false`,
                cambio: `manual`,
-               cor: `Verde`,
-               description: `VW 1300L 1980. Apenas dois donos. Pintura, mecânica e estofamento em ótimo estado.`,
-               link: `/comprar/porto-alegre-rs/volkswagen/fusca/1980/d44932295?pos=8&hfv=false`,
+               cor: `Vermelho`,
+               description: `Casando de ser enganado? Agora você está no lugar certo, aqui encontrará ofertas exclusivas com ...`,
+               link: `/comprar/rio-de-janeiro-rj/volkswagen/fusca/1969/d46384894?pos=91&hfv=false`,
                item_brand: `Volkswagen`,
-               nomeVendedor: `vendedor particular`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `Particular`,
-               item_category4: `Porto Alegre`,
-               item_category3: `RS`,
-               item_category: `29863`,
-               indice: `8`,
-               item_name: `Fusca 1300`,
-               hasWhatsApp: `false`,
-               whatsappType: `null`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 30.000,00`,
-               dealer_id: `2688261`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `44454905`,
-               titulo: `Volkswagen Fusca 1500`,
-               hasImage: `true`,
-               item_variant: `1972`,
-               isZeroKm: `false`,
-               cambio: `manual`,
-               cor: `Amarelo`,
-               description: `EXCLUSIVO!!! Oportunidade Única!!! O mais novo de Brasília!!! - Com bancos em couro; - Rodas ...`,
-               link: `/comprar/brasilia-df/volkswagen/fusca/1972/d44454905?pos=9&hfv=false`,
-               item_brand: `Volkswagen`,
-               nomeVendedor: `600 MULTIMARCAS`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `Brasília`,
-               item_category3: `DF`,
-               item_category: `613000`,
-               indice: `9`,
-               item_name: `Fusca 1500`,
-               hasWhatsApp: `true`,
-               whatsappType: `1`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 41.900,00`,
-               dealer_id: `1593907`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `45350975`,
-               titulo: `Ford Corcel I Sedan 1.4`,
-               hasImage: `true`,
-               item_variant: `1975`,
-               isZeroKm: `false`,
-               cambio: `manual`,
-               cor: `Branco`,
-               description: `VEÍCULO MUITO BEM CONSERVADO * LAUDO CAUTELAR APROVADO, POSSUÍMOS AS MELHORES TAXAS DO MERCADO, ...`,
-               link: `/comprar/sao-paulo-sp/ford/corcel/1975/d45350975?pos=10&hfv=false`,
-               item_brand: `Ford`,
-               nomeVendedor: `WM Shalon Multimarcas`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `São Paulo`,
-               item_category3: `SP`,
-               item_category: `400000`,
-               indice: `10`,
-               item_name: `Corcel I Sedan 1.4`,
-               hasWhatsApp: `true`,
-               whatsappType: `1`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 14.900,00`,
-               dealer_id: `1596065`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `45126285`,
-               titulo: `Fiat 147 L 1.050`,
-               hasImage: `true`,
-               item_variant: `1978`,
-               isZeroKm: `false`,
-               cambio: `manual`,
-               cor: `Branco`,
-               description: `Fiat 147 1978 Motor 1050 Cambio 4 marchas original Bancos baixos Suspensão @htsamortecedores ...`,
-               link: `/comprar/sorocaba-sp/fiat/147/1978/d45126285?pos=11&hfv=false`,
-               item_brand: `Fiat`,
-               nomeVendedor: `FR MOTORS`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `Sorocaba`,
-               item_category3: `SP`,
-               item_category: `100000`,
-               indice: `11`,
-               item_name: `147 L 1.050`,
-               hasWhatsApp: `true`,
-               whatsappType: `1`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 19.999,00`,
-               dealer_id: `2396032`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `46112714`,
-               titulo: `Volkswagen Fusca 1600`,
-               hasImage: `true`,
-               item_variant: `1976`,
-               isZeroKm: `false`,
-               cambio: `manual`,
-               cor: `Branco`,
-               description: `Veículo em Ótimo estado. Periciado e Aprovado, Revisado com Garantia, Manual e chave reserva. ...`,
-               link: `/comprar/taboao-da-serra-sp/volkswagen/fusca/1976/d46112714?pos=12&hfv=false`,
-               item_brand: `Volkswagen`,
-               nomeVendedor: `3 MOTORS`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `Taboão da Serra`,
-               item_category3: `SP`,
-               item_category: `99999`,
-               indice: `12`,
-               item_name: `Fusca 1600`,
-               hasWhatsApp: `true`,
-               whatsappType: `2`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 24.900,00`,
-               dealer_id: `2402378`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `46024567`,
-               titulo: `Volkswagen Fusca 1300`,
-               hasImage: `true`,
-               item_variant: `1973`,
-               isZeroKm: `false`,
-               cambio: `manual`,
-               cor: `Amarelo`,
-               description: `Raridade`,
-               link: `/comprar/bebedouro-sp/volkswagen/fusca/1973/d46024567?pos=13&hfv=false`,
-               item_brand: `Volkswagen`,
-               nomeVendedor: `CLAUDIAO VEICULOS`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `Bebedouro`,
-               item_category3: `SP`,
-               item_category: `112000`,
-               indice: `13`,
-               item_name: `Fusca 1300`,
-               hasWhatsApp: `true`,
-               whatsappType: `1`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 26.000,00`,
-               dealer_id: `2425366`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `46338436`,
-               titulo: `Volkswagen Variant 1.6`,
-               hasImage: `true`,
-               item_variant: `1970`,
-               isZeroKm: `false`,
-               cambio: `automático`,
-               cor: `Verde`,
-               description: `BANCOS EM COURO/PNEUS NOVOS/TUDO EM PERFEITO ESTADO DE FUNCIONAMENTO.`,
-               link: `/comprar/sao-jose-do-rio-preto-sp/volkswagen/variant/1970/d46338436?pos=14&hfv=false`,
-               item_brand: `Volkswagen`,
-               nomeVendedor: `ORIGINALE MULTIMARCAS `,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `São José do Rio Preto`,
-               item_category3: `SP`,
-               item_category: `49750`,
-               indice: `14`,
-               item_name: `Variant 1.6`,
-               hasWhatsApp: `true`,
-               whatsappType: `1`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 28.900,00`,
-               dealer_id: `2190784`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `45868907`,
-               titulo: `Volkswagen Fusca 1300`,
-               hasImage: `true`,
-               item_variant: `1978`,
-               isZeroKm: `false`,
-               cambio: `manual`,
-               cor: `Bege`,
-               description: `| Publicado por Autogestor [1488780]`,
-               link: `/comprar/curitiba-pr/volkswagen/fusca/1978/d45868907?pos=15&hfv=false`,
-               item_brand: `Volkswagen`,
-               nomeVendedor: `Liderança Automóveis`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `Curitiba`,
-               item_category3: `PR`,
-               item_category: `36900`,
-               indice: `15`,
-               item_name: `Fusca 1300`,
-               hasWhatsApp: `true`,
-               whatsappType: `2`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 29.900,00`,
-               dealer_id: `40667`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `45749829`,
-               titulo: `Ford Corcel I Sedan 1.4`,
-               hasImage: `true`,
-               item_variant: `1976`,
-               isZeroKm: `false`,
-               cambio: `manual`,
-               cor: `Branco`,
-               description: `Carro seminovo minuciosamente revisado por nossa equipe especializada. Carros com garantia e ...`,
-               link: `/comprar/rio-de-janeiro-rj/ford/corcel/1976/d45749829?pos=16&hfv=false`,
-               item_brand: `Ford`,
-               nomeVendedor: `João Car Veículos`,
+               nomeVendedor: `Confidence Veículos`,
                superOffer: `false`,
                favorito: `false`,
                item_category5: `PJ`,
                item_category4: `Rio de Janeiro`,
                item_category3: `RJ`,
-               item_category: `42850`,
-               indice: `16`,
-               item_name: `Corcel I Sedan 1.4`,
+               item_category: `1600`,
+               indice: `11`,
+               item_name: `Fusca 1300`,
                hasWhatsApp: `true`,
                whatsappType: `1`,
                icFeiraoIcarros: `false`,
-               price: `R$ 29.900,00`,
-               dealer_id: `35566`
+               price: `R$ 28.900,00`,
+               dealer_id: `2679669`
            },
         
             
@@ -858,134 +598,134 @@
                 
                 
              
-           {item_id: `46092562`,
+           {item_id: `45355086`,
+               titulo: `Ford Rural`,
+               hasImage: `true`,
+               item_variant: `1966`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Azul`,
+               description: `Veículo de Não-Fumante Parece Novo Licenciado`,
+               link: `/comprar/curitiba-pr/ford/rural/1966/d45355086?pos=92&hfv=false`,
+               item_brand: `Ford`,
+               nomeVendedor: `Rosso Veículos `,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `Curitiba`,
+               item_category3: `PR`,
+               item_category: `51000`,
+               indice: `12`,
+               item_name: `Rural`,
+               hasWhatsApp: `true`,
+               whatsappType: `1`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 28.900,00`,
+               dealer_id: `112889`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `45191376`,
+               titulo: `Fiat 147 L 1.050`,
+               hasImage: `true`,
+               item_variant: `1978`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Azul`,
+               description: `*BMS VEICULOS *SÃO JOSE DOS PINHAIS *TODOS NOSSOS VEICULOS SÃO PERICIADOS *A MELHOR AVALIAÇÃO ...`,
+               link: `/comprar/sao-jose-dos-pinhais-pr/fiat/147/1978/d45191376?pos=93&hfv=false`,
+               item_brand: `Fiat`,
+               nomeVendedor: `BMS PREMIUM`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `São José dos Pinhais`,
+               item_category3: `PR`,
+               item_category: `28948`,
+               indice: `13`,
+               item_name: `147 L 1.050`,
+               hasWhatsApp: `true`,
+               whatsappType: `1`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 29.900,00`,
+               dealer_id: `2679689`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `45302435`,
                titulo: `Volkswagen Fusca 1300`,
                hasImage: `true`,
                item_variant: `1975`,
                isZeroKm: `false`,
                cambio: `manual`,
                cor: `Azul`,
-               description: `Nossos veículos são todos criteriosamente inspecionados com vistoria Cautelar! - Disponível ...`,
-               link: `/comprar/campinas-sp/volkswagen/fusca/1975/d46092562?pos=17&hfv=false`,
+               description: `FUSCA 1975 - MOTOR 1400 - &#8288;BANCOS DE COURO - &#8288;CINTO PERSONALIZADO - &#8288;INTERNO ...`,
+               link: `/comprar/guarulhos-sp/volkswagen/fusca/1975/d45302435?pos=94&hfv=false`,
                item_brand: `Volkswagen`,
-               nomeVendedor: `Arruda Automoveis`,
+               nomeVendedor: `WCAR VEICULOS`,
                superOffer: `false`,
                favorito: `false`,
                item_category5: `PJ`,
-               item_category4: `Campinas`,
+               item_category4: `Guarulhos`,
                item_category3: `SP`,
-               item_category: `30000`,
-               indice: `17`,
+               item_category: `1000`,
+               indice: `14`,
                item_name: `Fusca 1300`,
-               hasWhatsApp: `true`,
-               whatsappType: `2`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 35.980,00`,
-               dealer_id: `175293`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `46237080`,
-               titulo: `Volkswagen Fusca 1500`,
-               hasImage: `true`,
-               item_variant: `1973`,
-               isZeroKm: `false`,
-               cambio: `manual`,
-               cor: `Verde`,
-               description: `@robsonveiculos www.robsonveiculos.com`,
-               link: `/comprar/belo-horizonte-mg/volkswagen/fusca/1973/d46237080?pos=18&hfv=false`,
-               item_brand: `Volkswagen`,
-               nomeVendedor: `Robson Veículos`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `Belo Horizonte`,
-               item_category3: `MG`,
-               item_category: `34`,
-               indice: `18`,
-               item_name: `Fusca 1500`,
-               hasWhatsApp: `true`,
-               whatsappType: `2`,
-               icFeiraoIcarros: `false`,
-               price: `R$ 37.900,00`,
-               dealer_id: `62676`
-           },
-        
-            
-            
-                
-            
-            
-            
-                
-                
-                    
-                
-             
-            
-                
-                    
-                
-                
-             
-            
-                
-                
-                
-                
-                    
-                
-                
-             
-           {item_id: `46241813`,
-               titulo: `Volkswagen Fusca 1500`,
-               hasImage: `true`,
-               item_variant: `1973`,
-               isZeroKm: `false`,
-               cambio: `manual`,
-               cor: `Vermelho`,
-               description: `--- ISENTO DE IPVA ---`,
-               link: `/comprar/sao-paulo-sp/volkswagen/fusca/1973/d46241813?pos=19&hfv=false`,
-               item_brand: `Volkswagen`,
-               nomeVendedor: `Luiz Esperança`,
-               superOffer: `false`,
-               favorito: `false`,
-               item_category5: `PJ`,
-               item_category4: `São Paulo`,
-               item_category3: `SP`,
-               item_category: `113100`,
-               indice: `19`,
-               item_name: `Fusca 1500`,
                hasWhatsApp: `true`,
                whatsappType: `1`,
                icFeiraoIcarros: `false`,
-               price: `R$ 38.800,00`,
-               dealer_id: `32685`
+               price: `R$ 29.900,00`,
+               dealer_id: `2516581`
            },
         
             
@@ -1014,30 +754,290 @@
                 
                 
              
-           {item_id: `46177512`,
-               titulo: `Chevrolet Chevette Sedan SL 1.4`,
+           {item_id: `45539692`,
+               titulo: `Volkswagen Fusca 1300`,
                hasImage: `true`,
                item_variant: `1977`,
                isZeroKm: `false`,
                cambio: `manual`,
-               cor: `Marrom`,
-               description: `Todos os veículos aqui anunciados foram submetidos a rigorosa avaliação e a pericia cautelar . ...`,
-               link: `/comprar/campinas-sp/chevrolet/chevette-sedan/1977/d46177512?pos=20&hfv=false`,
-               item_brand: `Chevrolet`,
-               nomeVendedor: `DK Motors`,
+               cor: `Bege`,
+               description: `VENDA DE FUSCA 1977 - EDIÇÃO CLÁSSICA COM NOTA FISCAL ORIGINAL Descrição do Veículo: Modelo: ...`,
+               link: `/comprar/curitiba-pr/volkswagen/fusca/1977/d45539692?pos=95&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `AUTO JOTA VEÍCULOS`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `Curitiba`,
+               item_category3: `PR`,
+               item_category: `149000`,
+               indice: `15`,
+               item_name: `Fusca 1300`,
+               hasWhatsApp: `true`,
+               whatsappType: `2`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 30.000,00`,
+               dealer_id: `1949633`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `46086790`,
+               titulo: `Volkswagen Fusca 1300`,
+               hasImage: `true`,
+               item_variant: `1980`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Cinza`,
+               description: `PARA OS AMANTES DO FUSCA, CARRO PERSONALIZADO, TETO SOLAR, BANCOS DE COURO, RODAS NOVAS 17¨, EM ...`,
+               link: `/comprar/curitiba-pr/volkswagen/fusca/1980/d46086790?pos=96&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `HN Multimarcas`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `Curitiba`,
+               item_category3: `PR`,
+               item_category: `100000`,
+               indice: `16`,
+               item_name: `Fusca 1300`,
+               hasWhatsApp: `true`,
+               whatsappType: `2`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 34.900,00`,
+               dealer_id: `779573`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `46098016`,
+               titulo: `Volkswagen Fusca 1600`,
+               hasImage: `true`,
+               item_variant: `1970`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Verde`,
+               description: `VW/ BUGGY BABY 1500 CC , TOBAR, ALTERNADOR, BANCOS EM COURO, FAROL DE MILHA, CAPOTA, RODAS DE ...`,
+               link: `/comprar/campinas-sp/volkswagen/fusca/1970/d46098016?pos=97&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `Denis Veículos Multimarcas`,
                superOffer: `false`,
                favorito: `false`,
                item_category5: `PJ`,
                item_category4: `Campinas`,
                item_category3: `SP`,
-               item_category: `77000`,
-               indice: `20`,
-               item_name: `Chevette Sedan SL 1.4`,
+               item_category: `25856`,
+               indice: `17`,
+               item_name: `Fusca 1600`,
                hasWhatsApp: `true`,
                whatsappType: `1`,
                icFeiraoIcarros: `false`,
-               price: `R$ 44.990,00`,
-               dealer_id: `2387941`
+               price: `R$ 34.990,00`,
+               dealer_id: `105822`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `45686643`,
+               titulo: `Volkswagen Fusca 1300`,
+               hasImage: `true`,
+               item_variant: `1977`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Verde`,
+               description: `Volkswagen Fusca 1300 1977 **VEÍCULO COM PLACA PRETA E CERTIFICADO EMITIDO COM 89% DE ...`,
+               link: `/comprar/curitiba-pr/volkswagen/fusca/1977/d45686643?pos=98&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `F8 MOTORS`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `Curitiba`,
+               item_category3: `PR`,
+               item_category: `75399`,
+               indice: `18`,
+               item_name: `Fusca 1300`,
+               hasWhatsApp: `true`,
+               whatsappType: `2`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 35.888,00`,
+               dealer_id: `2380812`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `45787869`,
+               titulo: `Volkswagen Fusca 1300`,
+               hasImage: `true`,
+               item_variant: `1974`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Branco`,
+               description: `Carro impecavel otimo estado de consevaçao Mecanica ok Veiculo sem possibilidade de ...`,
+               link: `/comprar/curitiba-pr/volkswagen/fusca/1974/d45787869?pos=99&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `Confiance Automóveis`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `Curitiba`,
+               item_category3: `PR`,
+               item_category: `26000`,
+               indice: `19`,
+               item_name: `Fusca 1300`,
+               hasWhatsApp: `true`,
+               whatsappType: `2`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 35.900,00`,
+               dealer_id: `2030379`
+           },
+        
+            
+            
+                
+            
+            
+            
+                
+                
+                    
+                
+             
+            
+                
+                    
+                
+                
+             
+            
+                
+                
+                
+                
+                    
+                
+                
+             
+           {item_id: `45920092`,
+               titulo: `Volkswagen Fusca 1300`,
+               hasImage: `true`,
+               item_variant: `1976`,
+               isZeroKm: `false`,
+               cambio: `manual`,
+               cor: `Bege`,
+               description: `Volkswagen Fusca 1975 Motor 1300 em perfeito estado66.000 KM Mecânica e elétrica perfeitaCarro ...`,
+               link: `/comprar/araguari-mg/volkswagen/fusca/1976/d45920092?pos=100&hfv=false`,
+               item_brand: `Volkswagen`,
+               nomeVendedor: `VIVA MOTORS`,
+               superOffer: `false`,
+               favorito: `false`,
+               item_category5: `PJ`,
+               item_category4: `Araguari`,
+               item_category3: `MG`,
+               item_category: `66000`,
+               indice: `20`,
+               item_name: `Fusca 1300`,
+               hasWhatsApp: `true`,
+               whatsappType: `1`,
+               icFeiraoIcarros: `false`,
+               price: `R$ 38.900,00`,
+               dealer_id: `2244886`
            },
         
         
@@ -1050,138 +1050,138 @@
                     
                 
             
-            {item_id: `45147766`,
-                titulo: `Volkswagen Fusca 1600`,
+            {item_id: `45758712`,
+                titulo: `Volkswagen Fusca 1500`,
                 hasImage: `true`,
-                item_variant: `1978`,
+                item_variant: `1969`,
                 isZeroKm: `false`,
                 cambio: `manual`,
                 cor: `Bege`,
-                description: `Fusca 1.8 Turbo motor ap Som bancos de onix`,
-                link: `/comprar/rio-de-janeiro-rj/volkswagen/fusca/1978/d45147766?pos=-1&hfv=false`,
+                description: `Relíquia de 1969. Sucesso por onde passa. Não aceito troca, quero apenas vender.`,
+                link: `/comprar/macae-rj/volkswagen/fusca/1969/d45758712?pos=-1&hfv=false`,
                 item_brand: `Volkswagen`,
-                nomeVendedor: `DK Motors`,
+                nomeVendedor: `VIVA MOTORS`,
+                superOffer: `true`,
+                favorito: `false`,
+                item_category5: `PJ`,
+                item_category4: `Macaé`,
+                item_category3: `RJ`,
+                item_category: `9999`,
+                indice: `1`,
+                item_name: `Fusca 1500`,
+                hasWhatsApp: `false`,
+                whatsappType: `null`,
+                icFeiraoIcarros: `false`,
+                price: ``,
+                dealer_id: `251680`
+            },
+           ,
+           
+            
+          
+            
+            
+                
+                
+                    
+                
+            
+            {item_id: `46217201`,
+                titulo: `Ford F75`,
+                hasImage: `true`,
+                item_variant: `1973`,
+                isZeroKm: `false`,
+                cambio: `manual`,
+                cor: `Verde`,
+                description: `A procura de um Ford F75 - Verde - 1973 seminovo? Aqui tem. Veículo periciado. Ano: 1973/1973 ...`,
+                link: `/comprar/guarapuava-pr/ford/f75/1973/d46217201?pos=-1&hfv=false`,
+                item_brand: `Ford`,
+                nomeVendedor: `VIVA MOTORS`,
+                superOffer: `true`,
+                favorito: `false`,
+                item_category5: `PJ`,
+                item_category4: `Guarapuava`,
+                item_category3: `PR`,
+                item_category: `31161`,
+                indice: `2`,
+                item_name: `F75`,
+                hasWhatsApp: `true`,
+                whatsappType: `2`,
+                icFeiraoIcarros: `false`,
+                price: ``,
+                dealer_id: `2158943`
+            },
+           ,
+           
+            
+          
+            
+            
+                
+                
+                    
+                
+            
+            {item_id: `46350053`,
+                titulo: `Volkswagen Fusca 1500`,
+                hasImage: `true`,
+                item_variant: `1979`,
+                isZeroKm: `false`,
+                cambio: `manual`,
+                cor: `Cinza`,
+                description: `FUSCA 1979 TOTALMENTE RESTAURADO . EXCLUSIVIDADE GDI AUTOMÓVEIS. O CARRO FOI TIRADO TODA A ...`,
+                link: `/comprar/sorocaba-sp/volkswagen/fusca/1979/d46350053?pos=-2&hfv=false`,
+                item_brand: `Volkswagen`,
+                nomeVendedor: `VIVA MOTORS`,
+                superOffer: `true`,
+                favorito: `false`,
+                item_category5: `PJ`,
+                item_category4: `Sorocaba`,
+                item_category3: `SP`,
+                item_category: `123`,
+                indice: `3`,
+                item_name: `Fusca 1500`,
+                hasWhatsApp: `true`,
+                whatsappType: `1`,
+                icFeiraoIcarros: `false`,
+                price: ``,
+                dealer_id: `2665730`
+            },
+           ,
+           
+            
+          
+            
+            
+                
+                
+                    
+                
+            
+            {item_id: `45920374`,
+                titulo: `Volkswagen Karmann Ghia`,
+                hasImage: `true`,
+                item_variant: `1968`,
+                isZeroKm: `false`,
+                cambio: `manual`,
+                cor: `Amarelo`,
+                description: `VEÍCULO EM BOM ESTADO ÓTIMO PARA QUEM QUER CURTIR OU PARA INVESTIDORES.`,
+                link: `/comprar/rio-de-janeiro-rj/volkswagen/karmann-ghia/1968/d45920374?pos=-3&hfv=false`,
+                item_brand: `Volkswagen`,
+                nomeVendedor: `VIVA MOTORS`,
                 superOffer: `true`,
                 favorito: `false`,
                 item_category5: `PJ`,
                 item_category4: `Rio de Janeiro`,
                 item_category3: `RJ`,
-                item_category: `100`,
-                indice: `1`,
-                item_name: `Fusca 1600`,
-                hasWhatsApp: `false`,
-                whatsappType: `null`,
-                icFeiraoIcarros: `false`,
-                price: ``,
-                dealer_id: `2690977`
-            },
-           ,
-           
-            
-          
-            
-            
-                
-                
-                    
-                
-            
-            {item_id: `46373969`,
-                titulo: `Volkswagen Fusca 1300`,
-                hasImage: `true`,
-                item_variant: `1978`,
-                isZeroKm: `false`,
-                cambio: `manual`,
-                cor: `Amarelo`,
-                description: `Volkswagen Fusca, modelo L, mecânica 1300 recentemente revisada. Rodas Sprintstar tala 6,5, com ...`,
-                link: `/comprar/campinas-sp/volkswagen/fusca/1978/d46373969?pos=-1&hfv=false`,
-                item_brand: `Volkswagen`,
-                nomeVendedor: `DK Motors`,
-                superOffer: `true`,
-                favorito: `false`,
-                item_category5: `PJ`,
-                item_category4: `Campinas`,
-                item_category3: `SP`,
-                item_category: `5842`,
-                indice: `2`,
-                item_name: `Fusca 1300`,
-                hasWhatsApp: `true`,
-                whatsappType: `1`,
-                icFeiraoIcarros: `false`,
-                price: ``,
-                dealer_id: `2345141`
-            },
-           ,
-           
-            
-          
-            
-            
-                
-                
-                    
-                
-            
-            {item_id: `45226498`,
-                titulo: `Volkswagen Fusca 1300`,
-                hasImage: `true`,
-                item_variant: `1978`,
-                isZeroKm: `false`,
-                cambio: `manual`,
-                cor: `Bege`,
-                description: `N/D`,
-                link: `/comprar/vila-velha-es/volkswagen/fusca/1978/d45226498?pos=-2&hfv=false`,
-                item_brand: `Volkswagen`,
-                nomeVendedor: `DK Motors`,
-                superOffer: `true`,
-                favorito: `false`,
-                item_category5: `PJ`,
-                item_category4: `Vila Velha`,
-                item_category3: `ES`,
-                item_category: `44000`,
-                indice: `3`,
-                item_name: `Fusca 1300`,
-                hasWhatsApp: `true`,
-                whatsappType: `1`,
-                icFeiraoIcarros: `false`,
-                price: ``,
-                dealer_id: `180912`
-            },
-           ,
-           
-            
-          
-            
-            
-                
-                
-                    
-                
-            
-            {item_id: `46102389`,
-                titulo: `Volkswagen Fusca 1300`,
-                hasImage: `true`,
-                item_variant: `1975`,
-                isZeroKm: `false`,
-                cambio: `manual`,
-                cor: `Branco`,
-                description: `VEÍCULO EM TRÂNSITO, AGENDE SUA VISITA ANTES DE VIR ATÉ A LOJA. VW FUSCA 1300 GASOLINA DE ANO ...`,
-                link: `/comprar/sao-bernardo-do-campo-sp/volkswagen/fusca/1975/d46102389?pos=-3&hfv=false`,
-                item_brand: `Volkswagen`,
-                nomeVendedor: `DK Motors`,
-                superOffer: `true`,
-                favorito: `false`,
-                item_category5: `PJ`,
-                item_category4: `São Bernardo do Campo`,
-                item_category3: `SP`,
-                item_category: `99999`,
+                item_category: `1000000`,
                 indice: `4`,
-                item_name: `Fusca 1300`,
+                item_name: `Karmann Ghia`,
                 hasWhatsApp: `true`,
                 whatsappType: `1`,
                 icFeiraoIcarros: `false`,
                 price: ``,
-                dealer_id: `2056767`
+                dealer_id: `2100638`
             },
            
             

@@ -25,6 +25,8 @@ def processaCarrosICarros(carros):
             # Identifica e remove as vírgulas 
             if line == "           ,\n":
                 line = " "
+            if "description" in line:
+                line = ""
             # Remove as linhas em branco 
             if line.strip():
                 o.write(line)

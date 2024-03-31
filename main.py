@@ -29,7 +29,7 @@ def chamaRoboWebMotors(quantidadeDePaginas):
     for pagina in range(1, int(quantidadeDePaginas)+1):
         auxiliarDeRepostas = (botWebMotors.exec(pagina, userAgent))
         adicionaRespostasFinais(auxiliarDeRepostas)
-        time.sleep(random.randint(60, 120))
+        time.sleep(random.randint(20, 30))
        
 def chamaRoboChaveNaMao(quantidadeDePaginas):
     if(quantidadeDePaginas == 0):
@@ -37,7 +37,7 @@ def chamaRoboChaveNaMao(quantidadeDePaginas):
     for pagina in range(1, int(quantidadeDePaginas)+1):
         auxiliarDeRepostas = (botChaveNaMao.exec(pagina, userAgent))
         adicionaRespostasFinais(auxiliarDeRepostas)
-        time.sleep(random.randint(60, 120))
+        time.sleep(random.randint(20, 30))
         
 def chamaRoboICarros(quantidadeDePaginas):
     if(quantidadeDePaginas == 0):
@@ -45,7 +45,7 @@ def chamaRoboICarros(quantidadeDePaginas):
     for pagina in range(1, int(quantidadeDePaginas)+1):
         auxiliarDeRepostas = (botICarros.exec(pagina, userAgent))
         adicionaRespostasFinais(auxiliarDeRepostas)
-        time.sleep(random.randint(60, 120))
+        time.sleep(random.randint(20, 30))
 
 
 # Chama robo para o portal Web Motors
