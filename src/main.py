@@ -10,3 +10,11 @@ arquivoDeResultado = montadorDeResultados.iniciaConstrucaoDoResultadoFinal()
 chamadorDeRobos.iniciaRobos(sys.argv, arquivoDeResultado)
 # Finaliza processo de montagem do arquivo final
 montadorDeResultados.finalizaConstrucaoDoResultadoFinal(arquivoDeResultado)
+
+# Resultado completo
+# Intervalo entre requisições: entre 20 e 30 segundos
+# Tempo: 25m 48s
+# Carros: 1260
+# webMotors: 20 páginas
+# chaveNaMao: 20 páginas
+# iCarros: 20 páginas
