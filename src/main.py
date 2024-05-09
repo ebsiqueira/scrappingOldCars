@@ -18,3 +18,6 @@ montadorDeResultados.finalizaConstrucaoDoResultadoFinal(arquivoDeResultado)
 # webMotors: 20 páginas
 # chaveNaMao: 20 páginas
 # iCarros: 20 páginas
+
+# Execução
+# python main.py --webMotors 20 --chaveNaMao 20 --iCarros 20
